@@ -4,7 +4,12 @@ Android Interview
 ## Android基础
 ## Android进阶
 ## Android网络
-
+1. [请简述一次http网络请求的过程？](network/请简述一次http网络请求的过程.md)
+2. 请简述 Http 与 Https 的区别？
+3. 谈一谈TCP/IP三次握手，四次挥手？
+4. Https 三次握手四次挥手？
+5. 简述 TCP 和 UDP的区别？
+6. 对称加密和非对称加密方法？
 
 
 # Reference
