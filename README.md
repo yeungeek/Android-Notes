@@ -10,7 +10,7 @@ Android Interview
 4. Https 三次握手四次挥手？
 5. 简述 TCP 和 UDP的区别？
 6. 对称加密和非对称加密方法？
-
+7. 谈谈如何对网络请求进行优化？
 
 # Reference
 * [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview)
