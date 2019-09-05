@@ -14,7 +14,7 @@
 ![](images/wireshark_tcp_handwave.png)
 这里 TCP 四次挥手和普通稍微有点不一样。  
 ``` C++
-456	10.695723	45.117.101.166	10.88.12.48	TCP	66	80 → 64758 [FIN, ACK] Seq=114869 Ack=118 Win=29056 Len=0 TSval=276460848 TSecr=917553978
+45.117.101.166	10.88.12.48	TCP	66	80 → 64758 [FIN, ACK] Seq=114869 Ack=118 Win=29056 Len=0 TSval=276460848 TSecr=917553978
 ```
 服务端 FIN,ACK 一起发送过来，就变成了三次挥手了
 ![](images/tcp_three_hand.jpg)
