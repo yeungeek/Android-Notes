@@ -1,4 +1,4 @@
-一次http网络请求的流程，以请求http://gank.io/api/today为例。  
+一次http网络请求的流程，以请求http://gank.io/api/today 为例。  
 流程图：
 ![](images/http_request.png)
 其中TCP三次握手，四次挥手都是面试中会考察的，等后面的面试题再进行介绍。    
