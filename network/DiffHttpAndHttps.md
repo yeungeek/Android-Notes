@@ -16,5 +16,5 @@
 |连接|无状态|由SSL+http协议构建的可进行加密传输、身份认证的网络协议<br/>所以首次建立连接会慢一些，但是比http协议安全|
 |握手协议|三次握手|如下图|
 
-https握手：
+https握手：   
 ![](images/https_handshake.png)
