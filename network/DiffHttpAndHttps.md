@@ -18,3 +18,15 @@
 
 https握手：   
 ![](images/https_handshake.png)
+
+``` java
+    private void initReceiver() {
+        IntentFilter filter = new IntentFilter();
+        filter.addAction(FaceConstants.ACTION_FACE_ID_UPDATE_START);
+        filter.addAction(FaceConstants.ACTION_FACE_ID_UPDATE_DONE);
+        LocalBroadcastManager.getInstance(this).registerReceiver(mFaceReceiver, filter);
+
+        mScreenReceiver = new ScreenBroadcastReceiver();
+        mScreenReceiver.registerReceiver(this);
+    }
+```
