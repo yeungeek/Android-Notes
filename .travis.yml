@@ -10,7 +10,6 @@ cache:
     - node_modules
 
 install:
-  - cd docs
   - npm install
 
 script:

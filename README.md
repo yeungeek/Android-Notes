@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/yeungeek/AndroidInterview.svg?branch=master)](https://travis-ci.org/yeungeek/AndroidInterview)
 # AndroidInterview
 Android Interview
 
