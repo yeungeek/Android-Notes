@@ -53,8 +53,10 @@
       "style": "flat",
       "comment": {
         "label": "Comment",
-        "icon": "fa fa-comments",
-        "className": "warning"
+        "icon": "",
+        "className": "tip",
+        "labelVisibility":"hidden",
+        "iconVisibility":"hidden"
       },
       "source": {
         "label": "",

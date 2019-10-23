@@ -1,3 +1,4 @@
+# 请简述 Http 与 Https 的区别？
 ## 基本概念
 ### HTTP
 超文本传输协议(HyperText Transfer Protocol)，是目前互联网上应用最为广泛的一种网络传输协议，所有的WWW文件都必须遵守这个标准.   
@@ -18,15 +19,3 @@
 
 https握手：   
 ![](images/https_handshake.png)
-
-``` java
-    private void initReceiver() {
-        IntentFilter filter = new IntentFilter();
-        filter.addAction(FaceConstants.ACTION_FACE_ID_UPDATE_START);
-        filter.addAction(FaceConstants.ACTION_FACE_ID_UPDATE_DONE);
-        LocalBroadcastManager.getInstance(this).registerReceiver(mFaceReceiver, filter);
-
-        mScreenReceiver = new ScreenBroadcastReceiver();
-        mScreenReceiver.registerReceiver(this);
-    }
-```

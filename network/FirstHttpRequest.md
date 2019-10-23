@@ -1,3 +1,5 @@
+# 请简述一次http网络请求的过程？
+
 一次http网络请求的流程，以请求http://gank.io/api/today 为例。  
 流程图：
 ![](images/http_request.png)
