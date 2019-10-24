@@ -1,6 +1,6 @@
 # 谈一谈TCP/IP三次握手，四次挥手？
 TCP用三次握手来创建连接，使用四次分手来释放连接。
-![](https://s2.ax1x.com/2019/06/24/ZEMwMd.md.png)
+![](images/tcpip_handshake.png)
 
 ## 三次握手
 
