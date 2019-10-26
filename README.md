@@ -10,7 +10,7 @@ Android Interview
 3. [谈一谈TCP/IP三次握手，四次挥手？](network/TCP_IPHandshake.md)
 4. [简述 TCP 和 UDP的区别？](network/DiffTCPAndUDP.md)
 5. [对称加密和非对称加密方法？](network/Encryption.md)
-6. 谈谈如何对网络请求进行优化？
+6. [谈谈如何对网络请求进行优化？](network/NetworkOptimization.md)
 7. HTTP1.0与HTTP1.1区别
 
 # Reference
