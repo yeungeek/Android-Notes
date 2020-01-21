@@ -13,6 +13,7 @@ Android Interview
 6. [谈谈如何对网络请求进行优化？](network/NetworkOptimization.md)
 
 # Reference
+* [Android-MS](https://github.com/xiangjiana/Android-MS)
 * [Android-Daily-Interview](https://github.com/Moosphan/Android-Daily-Interview)
 * [CodeEggDailyInterview](https://github.com/codeegginterviewgroup/CodeEggDailyInterview)
 * [interview](https://github.com/hadyang/interview)
@@ -21,3 +22,4 @@ Android Interview
 * [面试题库](http://www.jackywang.tech/AndroidInterview-Q-A/interview/)
 * [LearningNotes](https://github.com/francistao/LearningNotes)
 * [CrazyDailyQuestion](https://github.com/MicroKibaco/CrazyDailyQuestion)
+* [AndroidKnowledgeSystem](https://github.com/feelschaotic/AndroidKnowledgeSystem)
