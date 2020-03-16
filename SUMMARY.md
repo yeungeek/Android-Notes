@@ -3,6 +3,20 @@
 * [概述](README.md)
 * 算法
     - [LeetCode题解](https://yeungeek.github.io/java-leetcode/)
-* [计算机基础](1_basic/README.md)
-    - Linux基础
-
+* 计算机基础
+    - [Linux基础](1_basic/1_linux.md)
+* 网络
+    - [计算机网络](2_network/1_basic.md)
+    - [HTTP](2_network/2_http.md)
+* Java
+    - [Java基础](3_java/1_basic.md)
+    - [Java并发](3_java/2_concurrency.md)
+    - [Java虚拟机](3_java/3_vitrual_machine.md)
+* Android
+    - [Android基础](4_android/1_basic.md)
+    - [Android进阶](4_android/2_adv.md)
+    - [Android专项](4_android/3_spc.md)
+    - [Android面试题集](4_android/4_interview.md)
+* 编码规范
+    - [Java编码规范](5_code/1_java.md)
+    - [Android编码规范](5_code/2_android.md)
