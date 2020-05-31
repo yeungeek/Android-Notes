@@ -16,7 +16,15 @@
     - [Android基础](4_android/1_basic.md)
     - [Android进阶](4_android/2_adv.md)
     - [Android专项](4_android/3_spc.md)
-    - [Android面试题集](4_android/4_interview.md)
 * 编码规范
     - [Java编码规范](5_code/1_java.md)
     - [Android编码规范](5_code/2_android.md)
+* 面试题集
+    - [Java并发多线程](6_question/1_concurrency.md)
+    - [Android网络](6_question/2_network/README.md)
+        - [请简述一次http网络请求的过程？](6_question/2_network/FirstHttpRequest.md)
+        - [请简述 Http 与 Https 的区别？](6_question/2_network/DiffHttpAndHttps.md)
+        - [谈一谈TCP/IP三次握手，四次挥手？](6_question/2_network/TCP_IPHandshake.md)
+        - [简述 TCP 和 UDP的区别？](6_question/2_network/DiffTCPAndUDP.md)
+        - [对称加密和非对称加密方法？](6_question/2_network/Encryption.md)
+        - [谈谈如何对网络请求进行优化？](6_question/2_network/NetworkOptimization.md)
