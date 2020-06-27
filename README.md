@@ -27,7 +27,7 @@ Android技术面试的必备知识以及相关知识体系，包含算法、计�
 * [Android编码规范](5_code/2_android.md)
 
 ## 7.面试题集
-* [Java并发多线程](6_question/1_concurrency.md)
+* [Java并发多线程](6_question/1_concurrent/README.md)
 * [Android网络](6_question/2_network/README.md)
     1. [请简述一次http网络请求的过程？](6_question/2_network/FirstHttpRequest.md)
     2. [请简述 Http 与 Https 的区别？](6_question/2_network/DiffHttpAndHttps.md)
